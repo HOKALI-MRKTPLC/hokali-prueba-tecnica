@@ -64,7 +64,7 @@ Crear un documento en el cual se defina:
 ### Implementación del frontend
 Implementar el frontend en base a los requerimientos planteados y guiándose con el diseño: 
 
-> ![Examen ejemplo](./assets/examen.png)
+> ![Examen ejemplo](./examen.png)
 
 Utilizar Typescript para la implementación del code challenge.
 
